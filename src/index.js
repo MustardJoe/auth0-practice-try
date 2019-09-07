@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import App from './components/App';
-import Auth0Provider from './Auth0Provider';
+import Auth0Provider from './Auth0Propvider';
 
 render(
   <Auth0Provider
